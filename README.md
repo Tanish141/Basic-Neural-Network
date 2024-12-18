@@ -1,4 +1,4 @@
-## 🧠 XOR Neural Network
+# 🧠 XOR Neural Network
 This project demonstrates the implementation of a simple Neural Network from scratch in Python to solve the XOR problem, a classic problem in artificial intelligence. The network is trained using the backpropagation algorithm and mean squared error (MSE) as the loss function.
 
 ---
